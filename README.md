@@ -9,8 +9,6 @@ This project is a package developed using the Golang programming language, in wh
 <image src="https://www.itl.cat/pngfile/big/298-2982146_playing-cards-and-dice.jpg" />
 <br />
 <br />
-<br />
-<br />
 
 <h2>📍 Functions</h2>
 
